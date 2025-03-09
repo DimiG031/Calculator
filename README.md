@@ -1,21 +1,45 @@
-<h1>Calculator</h1>
+# Calculator Application
 
-<h2>Description</h2>
-The project is a Calculator made in Java. Upon launch a frame opens where we use the calculator with standard options such as addition,
-  subtraction, multiplication and division. We have the option of using negative numbers by pressing the (-) button, as well as erasing by 
-  pressing the Delete button and cleaning by pressing the Clean button.
-<br />
-<h2>Languages and Utilities Used</h2>
+## Overview
+This is a **simple calculator application** built using **Java Swing**. It provides basic arithmetic operations and an intuitive user interface for easy calculations.
 
-- <b>Java</b> 
+## Features
+✔ **Basic Arithmetic Operations** – Supports addition, subtraction, multiplication, and division.  
+✔ **Clear and Delete Functionality** – Allows users to clear the entire input or delete the last entered digit.  
+✔ **Handles Negative Numbers** – Users can enter and calculate with negative values.  
+✔ **Simple and Intuitive UI** – User-friendly design with easy-to-click buttons.  
+✔ **Lightweight and Fast** – No external dependencies, runs smoothly on any Java-supported system.  
 
-<h2>Environments Used </h2>
+## Installation & Usage
 
-- <b>Windows 10</b>
+### Prerequisites
+- Java Development Kit (JDK) 8 or later
+- Any Java IDE (Eclipse, IntelliJ, NetBeans) or command line (terminal)
 
-<h2>Program:</h2>
+### Running the Application
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/DimiG031/Calculator.git
+   cd Calculator
+   ```
+2. **Compile and Run**:
+   - Using terminal:
+     ```sh
+     javac Calculator.java
+     java Calculator
+     ```
+   - Using an IDE:
+     - Open the project in an IDE (e.g., IntelliJ IDEA or Eclipse).
+     - Run the `Calculator` class.
 
-<p align="center">
-Calculator:
-<br/>
-<img src="https://i.imgur.com/8j47m7B.png" height="80%" width="80%" alt="Calculator"/>
+## Future Improvements
+- **Advanced Functions** – Implement scientific calculations like trigonometry and logarithms.  
+- **Better Input Validation** – Prevent division by zero and invalid input handling.  
+- **UI Improvements** – Enhance the design with modern styling.  
+- **Keyboard Input Support** – Allow users to enter numbers and operators via the keyboard.  
+
+## License
+This project is open-source under the [MIT License](LICENSE).
+
+---
+📩 Feel free to contribute, suggest features, or report issues!
