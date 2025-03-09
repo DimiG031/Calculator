@@ -38,6 +38,8 @@ This is a **simple calculator application** built using **Java Swing**. It provi
 - **UI Improvements** – Enhance the design with modern styling.  
 - **Keyboard Input Support** – Allow users to enter numbers and operators via the keyboard.  
 
+✨ **Author:** [Goran Dimitrijević Dimi](https://github.com/DimiG031)
+
 ## License
 This project is open-source under the [MIT License](LICENSE).
 
